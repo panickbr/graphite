@@ -1,0 +1,12 @@
+name: graphite
+version: 0.1.0
+
+authors:
+  - panickbr <www.brunno@gmail.com>
+
+crystal: 0.24.1
+
+description: |
+  "Lightweight event library based on C# Events"
+
+license: MIT
